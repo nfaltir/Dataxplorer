@@ -12,7 +12,7 @@ st.set_page_config(page_title="Explore Data", page_icon="🔬")
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """<style>footer {visibility: hidden;}</style>"""
 st.markdown(hide_st_style, unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: #D5D46F;'> Explore Data 🔬</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #8062D6; padding:10px;'> Explore Data 🔬</h1>", unsafe_allow_html=True)
 st.write("<hr><br>", unsafe_allow_html=True)
 
 #setup file upload

@@ -1,5 +1,6 @@
 # <center>Explore Data 🔬</center>
-<img src="https://tinyurl.com/27fclmzb" style="max-width: 100%;">
+
+![Python](https://tinyurl.com/27fclmzb)
 
 ## Intro & App Functionalities
 
@@ -60,7 +61,7 @@ Happy Coding!
 
 ## Demo Url
 
-[Data Explorer]()
+[Data Explorer](https://dataexplorer.streamlit.app/)
 
 
 
