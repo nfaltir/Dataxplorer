@@ -1,6 +1,6 @@
 # <center>Explore Data 🔬</center>
 
-![Python](https://tinyurl.com/27fclmzb)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=gold)](https://www.python.org/)
 
 ## Intro & App Functionalities
 
@@ -52,16 +52,13 @@ Happy Coding!
 
 - `streamlit run app.py`
 
-
+<br>
 
 <img src="app.png" alt="Data Explorer"/>
 
-
 <br>
 
-## Demo Url
-
-[Data Explorer](https://dataexplorer.streamlit.app/)
+## Vist Demo App:  👉 [Data Explorer](https://dataexplorer.streamlit.app/)
 
 
 
