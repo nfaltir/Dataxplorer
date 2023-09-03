@@ -8,7 +8,7 @@ global df
 
 
 #streamlit config
-st.set_page_config(page_title="Explore Data", page_icon="🔬")
+st.set_page_config(page_title="Explore Data", page_icon="🔬", layout="wide")
 
 # ---- HIDE STREAMLIT STYLE ----
 hide_st_style = """<style>footer {visibility: hidden;}</style>"""
