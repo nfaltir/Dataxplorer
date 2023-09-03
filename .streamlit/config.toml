@@ -3,4 +3,5 @@ maxUploadSize = 1028
 
 
 [theme]
-base="light"
+base="dark"
+layout="wide"
